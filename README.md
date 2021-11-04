@@ -1,6 +1,6 @@
 # Danny Park
 
-### A little more about me
+### 📋 A little more about me
 
 ```Javascript
 
@@ -8,13 +8,13 @@ const danny = {
   frontend: ['React.js' | 'Redux' | 'Javascript' | | 'jQuery' | 'HTML' | 'CSS' | 'd3.js'],
   backend: ['Node.js' | 'Express.js' | 'Ruby on Rails' | 'Python' | 'PostgreSQL' | 'MongoDB'],
   statistic_or_modeling:  ['JMP', 'LabVIEW', 'MATLAB', 'R', 'Solidworks'],
-  languages: ['English', 'Korean', 'Japanese'],
+  languages: ['English 🇺🇸', 'Korean 🇰🇷', 'Japanese 🇯🇵'],
   hobbies: ['soccer', 'coffee', 'gaming', 'traveling']
 }
 
 ```
 
-### My recent projects
+### 🚧 Some of my projects:
 - [Triolingo](https://triolingo-mern.herokuapp.com/): single page education application that auto-generates a flashcard of searched vocabulary
 - [.split()](https://splitsplit.herokuapp.com/#/): single-page financial app based on Splitwise where users are allowed to split expenses with friends
 - [Soccer Heattracker](https://dannyjwpark.github.io/SoccerHeatTracker/#): interactive heatmap generator of the 2018 World Cup matches data
@@ -38,7 +38,7 @@ const danny = {
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dannyjwpark&count_private=true)
 
 
-### You can also find me here
+###  🙌🏻 You can also find me here
 [Portfolio](https://dannyjwpark.github.io/dannyjwp/)
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dannyjwp/)[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dannyjwp@gmail.com)[![image](https://img.shields.io/badge/AngelList-b6b9b9?style=for-the-badge&logo=AngelList&logoColor=black)](https://angel.co/u/jong-woon-park)
