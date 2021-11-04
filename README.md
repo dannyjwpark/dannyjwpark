@@ -38,8 +38,7 @@ const danny = {
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dannyjwpark&count_private=true)
 
 
-###  🙌🏻 You can also find me here
-[Portfolio](https://dannyjwpark.github.io/dannyjwp/)
+###  🙌🏻 Get in touch
 
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dannyjwp/)[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dannyjwp@gmail.com)[![image](https://img.shields.io/badge/AngelList-b6b9b9?style=for-the-badge&logo=AngelList&logoColor=black)](https://angel.co/u/jong-woon-park)
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dannyjwp/)[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dannyjwp@gmail.com)[![image](https://img.shields.io/badge/AngelList-b6b9b9?style=for-the-badge&logo=AngelList&logoColor=black)](https://angel.co/u/jong-woon-park)[![image](https://github.com/dannyjwpark/split/blob/main/app/assets/images/favicon.ico)](https://dannyjwpark.github.io/dannyjwp)
 
