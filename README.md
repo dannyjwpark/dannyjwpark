@@ -31,6 +31,10 @@ const danny = {
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" alt="VScode" width="4%" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original-wordmark.svg" alt="Ruby" width="4%" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" alt="Rails" width="4%" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" width="4%" />
+  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku" width="4%" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresQL" width="4%" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" width="4%" />
 </div>
 
 <br/>
@@ -40,5 +44,5 @@ const danny = {
 
 ###  🙌🏻 Get in touch
 
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dannyjwp/)[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dannyjwp@gmail.com)[![image](https://img.shields.io/badge/AngelList-b6b9b9?style=for-the-badge&logo=AngelList&logoColor=black)](https://angel.co/u/jong-woon-park)[![image](https://github.com/dannyjwpark/split/blob/main/app/assets/images/favicon.ico)](https://dannyjwpark.github.io/dannyjwp)
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dannyjwp/)[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dannyjwp@gmail.com)[![image](https://img.shields.io/badge/AngelList-b6b9b9?style=for-the-badge&logo=AngelList&logoColor=black)](https://angel.co/u/jong-woon-park)[![image](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://dannyjwpark.github.io/dannyjwp)
 
